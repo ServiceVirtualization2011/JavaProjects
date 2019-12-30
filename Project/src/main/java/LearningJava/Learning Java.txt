@@ -1,0 +1,5 @@
+Error can be of two type - Run time or compile time
+complie time can of Symantic or syntax error, like repeating var declaration wrong keywords
+Run time errors are exceptions which need to handeled in code by developer
+Exception handler using try catch
+class is blueprint to create real world objects
